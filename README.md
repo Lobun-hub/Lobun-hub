@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.png" alt="banner" width="100%" />
 </p>-->
 
-<h1 align="center">👋 Hello, I'm <strong>Lobun</strong></h1>
+<h1 align="center">👋 Hello, I'm <strong>Francis</strong></h1>
 <p align="center">
   🌍 From Kenya | 💻 Education Student (Math & Computer) | 🌱 Web Developer in Training  
 </p>
