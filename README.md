@@ -41,7 +41,7 @@ I believe in continuous learning, creativity, and collaboration.
 ## 💼 Featured Projects
 > *(You can replace these with your real GitHub repositories later)*
 
-- 🖥️ [Portfolio Website](https://github.com/YOUR_USERNAME/portfolio) – My personal website showcasing projects and skills.  
+- 🖥️ [Portfolio Website](https://github.com/Lobun-hub/portfolio) – My personal website showcasing projects and skills.  
 - 🏫 [Education Platform](https://github.com/YOUR_USERNAME/education-platform) – A learning platform concept for students and teachers.  
 - 🐔 [Poultry Farm Site](https://github.com/YOUR_USERNAME/poultry-farm) – A responsive landing page for a poultry business.  
 
@@ -59,7 +59,7 @@ I believe in continuous learning, creativity, and collaboration.
 <p align="center">
   📧 Email: <a href="mailto:francislotaba@gmail.com">francislotaba@gmail.com</a>  
   <br>
-  🔗 LinkedIn: <a href=" www.linkedin.com/in/francis-lobun-288b73269" target="_blank"> www.linkedin.com/in/francis-lobun-288b73269</a>  
+  🔗 LinkedIn: <a href=" www.linkedin.com/in/francis-lobun" target="_blank"> www.linkedin.com/in/francis-lobun-288b73269</a>  
 </p>
 
 ---
