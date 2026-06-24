@@ -26,20 +26,21 @@ I'm an advocate of continuous learning, creativity, and collaboration. My goal: 
 
 ## 🛠️ Skills & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
-- **Backend (Learning):** Node.js, Express.js
-- **Programming Languages:** C, Python (beginner)
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Backend (Learning):** SQL, MYSQL, Python
+- **Programming Languages:** JavaScript, Python (beginner)
 - **Version Control:** Git & GitHub
 - **Other Interests:** UI/UX Design, e-Learning Platforms, Community Tech Training
 
 ---
 
 ## 📚 What I'm Currently Working On
+-Chairperson, Kirinyaga University Peer Educators Club
+-Learning Full Stack Python Development
+-Building skills in Web Development, AI, and Automation
+-Developing projects that combine education and technology
+-Expanding my leadership and public speaking experience
 
-- Learning responsive web design
-- Building real-world apps & projects
-- Contributing to open-source projects
-- Developing strong coding & problem-solving skills
 
 ---
 
