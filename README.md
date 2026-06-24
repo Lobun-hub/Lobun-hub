@@ -65,7 +65,7 @@ I'm an advocate of continuous learning, creativity, and collaboration. My goal: 
 
 <p align="center">
   📧 Email: <a href="mailto:francislotaba@gmail.com">francislotaba@gmail.com</a><br>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/francis-lobun-288b73269" target="_blank">francis-lobun-288b73269</a>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/francis-lobun" target="_blank">francis-lobun</a>
 </p>
 
 ---
